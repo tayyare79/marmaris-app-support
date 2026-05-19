@@ -1,13 +1,7 @@
 # Marmaris App Support
 
-Marmaris App is a native iOS travel guide for Marmaris and nearby coastal areas.
+This repository hosts the public support and privacy pages for Marmaris App.
 
-For support questions, app feedback, corrections, or attribution requests, please open an issue in this repository:
-
-https://github.com/tayyare79/marmaris-app-support/issues
-
-## Privacy
-
-Privacy policy:
-
-https://github.com/tayyare79/marmaris-app-support/blob/main/PRIVACY.md
+- Website: https://tayyare79.github.io/marmaris-app-support/
+- Privacy policy: https://tayyare79.github.io/marmaris-app-support/privacy.html
+- Support issues: https://github.com/tayyare79/marmaris-app-support/issues
